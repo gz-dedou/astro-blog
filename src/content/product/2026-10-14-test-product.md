@@ -5,3 +5,5 @@ title: Test product
 featured: false
 draft: false
 ---
+![image.png](/image.png)
+
